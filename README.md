@@ -4,7 +4,7 @@ Olá jovens, vocês foram escolhidos (mentira, vocês escolheram estar aqui), pr
 alguns poucos passos que serão descritos abaixo:
 
 1. Faça o clone deste projeto 
-```git clone https://github.com/neilprado/iftech-FundamentosDeTestesJava.git```
+```git clone https://github.com/neilprado/Iftech-Fundamentos-Teste-Java.git```
 
 2. Abra a IDE de sua preferência e importe as dependências do Maven
 
